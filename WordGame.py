@@ -19,7 +19,7 @@ def inSpot(letter, word, spot):
 
 def rateGuess(myGuess, word):
     """Rates your guess and returns a word with the following features.
-    - Capital letter if the letter is in the right spot
+    - Capital letter if the letter is in the right spot.
     - Lower case letter if the letter is in the word but in the wrong spot
     - * if the letter is not in the word at all"""
     feedback = ""
