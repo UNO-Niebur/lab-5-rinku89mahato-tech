@@ -1,3 +1,6 @@
+#Name: Rinku Mahato
+#Date: 02/22/2026
+#Assignment: Word_Game
 #Word Game is a knock-off version of a popular online word-guessing game.
 
 import random
